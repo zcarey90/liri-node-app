@@ -1,0 +1,808 @@
+[
+  {
+    "id": "1015493127",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1015493127?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "",
+    "datetime": "2019-09-21T19:00:00",
+    "description": "'Connection, joy, and creativity'",
+    "venue": {
+      "country": "United States",
+      "city": "Las Vegas",
+      "latitude": "36.16749459999999",
+      "name": "Downtown Las Vegas",
+      "region": "NV",
+      "longitude": "-115.148789"
+    },
+    "lineup": [
+      "The Black Keys",
+      "Lil Wayne",
+      "Janelle Monae",
+      "Vampire Weekend",
+      "Zedd",
+      "Chance The Rapper",
+      "Post Malone",
+      "Billie Eilish"
+    ],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1015493127?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208226",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208226?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-09-23T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Denver",
+      "latitude": "39.7486389",
+      "name": "Pepsi Center",
+      "region": "CO",
+      "longitude": "-105.0075285"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208226?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208414",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208414?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-09-24T19:00:00",
+    "description": "The Black Keys",
+    "venue": {
+      "country": "United States",
+      "city": "Kansas City",
+      "latitude": "39.0972997",
+      "name": "Sprint Center",
+      "region": "MO",
+      "longitude": "-94.57993920000001"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "*repeat repeat"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208414?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208154",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208154?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-09-25T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Saint Louis",
+      "latitude": "38.6268402",
+      "name": "Enterprise Center",
+      "region": "MO",
+      "longitude": "-90.2026783"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "*repeat repeat"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208154?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208148",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208148?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-09-27T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Chicago",
+      "latitude": "41.8806908",
+      "name": "United Center",
+      "region": "IL",
+      "longitude": "-87.67417590000002"
+    },
+    "lineup": [
+      "The Black Keys",
+      "Modest Mouse",
+      "Black-Keys",
+      "*repeat repeat"
+    ],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208148?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014207797",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014207797?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-09-28T19:00:00",
+    "description": "The Black Keys",
+    "venue": {
+      "country": "United States",
+      "city": "Minneapolis",
+      "latitude": "44.979477",
+      "name": "Target Center",
+      "region": "MN",
+      "longitude": "-93.276158"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "*repeat repeat"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014207797?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210309",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210309?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-09-30T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Cleveland",
+      "latitude": "41.4965997",
+      "name": "Quicken Loans Arena",
+      "region": "OH",
+      "longitude": "-81.6882119"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "*repeat repeat"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210309?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014207469",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014207469?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-01T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Nashville",
+      "latitude": "36.1593994",
+      "name": "Bridgestone Arena",
+      "region": "TN",
+      "longitude": "-86.7785057"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "*repeat repeat"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014207469?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208554",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208554?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-02T19:00:00",
+    "description": "Pre-Purchase Parking",
+    "venue": {
+      "country": "United States",
+      "city": "Columbus",
+      "latitude": "39.9694084",
+      "name": "Nationwide Arena",
+      "region": "OH",
+      "longitude": "-83.00588349999998"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "*repeat repeat"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208554?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208055",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208055?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-04T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Milwaukee",
+      "latitude": "43.044901",
+      "name": "Fiserv Forum",
+      "region": "WI",
+      "longitude": "-87.9174016"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208055?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210561",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210561?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-05T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Detroit",
+      "latitude": "42.3410304",
+      "name": "Little Caesars Arena",
+      "region": "MI",
+      "longitude": "-83.05504300000001"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210561?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208540",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208540?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-07T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Pittsburgh",
+      "latitude": "40.439577",
+      "name": "PPG Paints Arena",
+      "region": "PA",
+      "longitude": "-79.98947959999998"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208540?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208636",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208636?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-08T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Grand Rapids",
+      "latitude": "42.9623826",
+      "name": "Van Andel Arena",
+      "region": "MI",
+      "longitude": "-85.6715957"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "Jessy Wilson"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208636?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014206311",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014206311?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-09T19:00:00",
+    "description": "American Express has set a two-order limit for this tour presale. This limit applies across all Cards associated with all of your American Express accounts. Prepaid cards are not eligible for this presale.",
+    "venue": {
+      "country": "Canada",
+      "city": "Toronto",
+      "latitude": "43.643466",
+      "name": "Scotiabank Arena",
+      "region": "",
+      "longitude": "-79.379142"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014206311?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208436",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208436?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-11T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Boston",
+      "latitude": "42.366198",
+      "name": "TD Garden",
+      "region": "MA",
+      "longitude": "-71.06214599999998"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208436?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014202382",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014202382?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-12T19:00:00",
+    "description": "The Black Keys - Let's Rock Tour",
+    "venue": {
+      "country": "United States",
+      "city": "Washington",
+      "latitude": "38.878376",
+      "name": "The Anthem",
+      "region": "DC",
+      "longitude": "-77.023319"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014202382?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208535",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208535?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T12:00:00",
+    "datetime": "2019-10-14T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Philadelphia",
+      "latitude": "39.90120150000001",
+      "name": "Wells Fargo Center",
+      "region": "PA",
+      "longitude": "-75.17197950000002"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208535?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210546",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210546?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-10-15T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Brooklyn",
+      "latitude": "40.68249520000001",
+      "name": "Barclays Center",
+      "region": "NY",
+      "longitude": "-73.97503490000003"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210546?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014442115",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014442115?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-04-05T10:00:00",
+    "datetime": "2019-10-16T19:00:00",
+    "description": "THE BLACK KEYS - Let's Rock Tour",
+    "venue": {
+      "country": "United States",
+      "city": "Washington",
+      "latitude": "38.8800664",
+      "name": "The Anthem",
+      "region": "DC",
+      "longitude": "-77.0261129"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014442115?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208484",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208484?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-05T19:00:00",
+    "description": "A $6.00 per ticket Traffic Control Fee will be included in the listed Service Fee upon payment for this event. This fee will include access to general parking at BB&T Center for the date of the event for which the ticket was purchased. Simply show your ticket at the parking gates to be scanned upon entry. This policy is in effect for tickets purchased at full price via Ticketmaster and for tickets purchased at full price at the BB&T Center box office prior to day of event. This policy is limited to specified events and may not apply to promotional ticket offers.",
+    "venue": {
+      "country": "United States",
+      "city": "Sunrise",
+      "latitude": "26.158227",
+      "name": "BB&T Center",
+      "region": "FL",
+      "longitude": "-80.325455"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "Shannon and the Clams"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208484?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210303",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210303?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-06T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Orlando",
+      "latitude": "28.540108",
+      "name": "Amway Center",
+      "region": "FL",
+      "longitude": "-81.384002"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210303?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210628",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210628?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-08T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Raleigh",
+      "latitude": "35.8033394",
+      "name": "PNC Arena",
+      "region": "NC",
+      "longitude": "-78.72179460000001"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210628?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208035",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208035?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-09T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Atlanta",
+      "latitude": "33.7572891",
+      "name": "State Farm Arena",
+      "region": "GA",
+      "longitude": "-84.39632440000003"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208035?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210420",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210420?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-12T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Houston",
+      "latitude": "29.7507604",
+      "name": "Toyota Center",
+      "region": "TX",
+      "longitude": "-95.3621005"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210420?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210648",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210648?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-13T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Austin",
+      "latitude": "30.27735",
+      "name": "Frank C Erwin Special Events Center",
+      "region": "TX",
+      "longitude": "-97.733147"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "Shannon & The Clams"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210648?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014210214",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014210214?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-14T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Fort Worth",
+      "latitude": "32.7252778",
+      "name": "Dickies Arena",
+      "region": "TX",
+      "longitude": "-97.3205556"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014210214?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208058",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208058?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-16T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Phoenix",
+      "latitude": "33.4457369",
+      "name": "Talking Stick Resort Arena",
+      "region": "AZ",
+      "longitude": "-112.0712006"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208058?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208583",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208583?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-17T19:00:00",
+    "description": "The Black Keys",
+    "venue": {
+      "country": "United States",
+      "city": "San Diego",
+      "latitude": "32.755274",
+      "name": "Pechanga Arena San Diego",
+      "region": "CA",
+      "longitude": "-117.212196"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208583?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208942",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208942?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-19T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Los Angeles",
+      "latitude": "33.9582095",
+      "name": "The Forum",
+      "region": "CA",
+      "longitude": "-118.34189879999997"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208942?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014271920",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014271920?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-28T09:00:00",
+    "datetime": "2019-11-20T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "San Francisco",
+      "latitude": "37.775",
+      "name": "Chase Center",
+      "region": "CA",
+      "longitude": "-122.4183333"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "Shannon and the Clams"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014271920?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208666",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208666?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-22T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Portland",
+      "latitude": "45.531982",
+      "name": "Moda Center",
+      "region": "OR",
+      "longitude": "-122.667838"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse", "Shannon and the Clams"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208666?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014208816",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014208816?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-23T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "United States",
+      "city": "Tacoma",
+      "latitude": "47.2366694",
+      "name": "Tacoma Dome",
+      "region": "WA",
+      "longitude": "-122.42702989999998"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014208816?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  },
+  {
+    "id": "1014206289",
+    "artist_id": "955",
+    "url": "https://www.bandsintown.com/e/1014206289?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event",
+    "on_sale_datetime": "2019-03-22T10:00:00",
+    "datetime": "2019-11-24T19:00:00",
+    "description": "",
+    "venue": {
+      "country": "Canada",
+      "city": "Vancouver",
+      "latitude": "49.27783579999999",
+      "name": "Rogers Arena",
+      "region": "",
+      "longitude": "-123.10882270000002"
+    },
+    "lineup": ["The Black Keys", "Modest Mouse"],
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014206289?app_id=f66eb880067a73f570e0d7fc347ead9b&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ]
+  }
+]
